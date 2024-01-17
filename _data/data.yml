@@ -9,16 +9,16 @@ sidebar:
    
 
     # 基本信息
-    name: 管彦奎  # 你的姓名
-    tagline: 中国传媒大学大三工科生 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    name: 李晨晓  # 你的姓名
+    tagline: 中国传媒大学在读大三工科生 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
     avatar: touxiang1.jpg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"
-    email: cuc_gyk@qq.com
-    phone: 18213190660
+    email: 1606740338@qq.com
+    phone: 18864668890
     # website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: bingyuesanshi  # GitHub用户名
+    github: Chenxiaoli11  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，可以通过https://www.web2pdfconvert.com/将网页转换为pdf
 
@@ -40,7 +40,7 @@ career-profile:
     summary: |
       个人信息：
 
-          姓名：管彦奎      
+          姓名：李晨晓      
           年龄：21岁         
           居住地：北京朝阳
           
@@ -155,4 +155,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by 管彦奎
+    Designed with <i class="fas fa-heart"></i> by Annis
