@@ -90,23 +90,24 @@ experiences:
         在学生发展部任班级助理职位，做好新生与班主任之间的桥梁作用，组织新生适应大学生活，制作PPT进行学习经验分享，组织新生引航、考前动员等活动。
 
 certifications:
-      title: 所获荣誉
-      list:
-        - name:信息与通信工程学院一等奖学金
-          start: 2022
-          end:
-          organization: 中国传媒大学信息与通信工程学院
-#          credentialurl: http://
-#          credentialname: 
-#          details: |
-          
-        - name:信息与通信工程学院一等奖学金
-          start: 2023
-          end:
-          organization: 中国传媒大学信息与通信工程学院
-#          credentialurl: http://
-#          credentialname: 
-#          details: |
+  title: 所获荣誉
+  list:
+    - name: 信息与通信工程学院一等奖学金
+      start: 2022
+      end:
+      organization: 中国传媒大学信息与通信工程学院
+      # credentialurl: http://
+      # credentialname: 
+      # details: |
+
+    - name: 信息与通信工程学院一等奖学金
+      start: 2023
+      end:
+      organization: 中国传媒大学信息与通信工程学院
+      # credentialurl: http://
+      # credentialname: 
+      # details: |
+
 
 
 projects:
