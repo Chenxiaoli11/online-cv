@@ -1,3 +1,4 @@
+
 #
 # 简历中的所有内容基本都在这里修改
 # 又不想要的地方可以空着，但是不要随意删除
@@ -68,9 +69,9 @@ education:
         university: 中国传媒大学
         time: 2021 - 2025
         details: |
-           - GPA: 3.76/4.0  
-           - 专业排名：综测排名Top2%  
-           - 主修课程：传媒技术导论  数字信号处理 信号与系统 现代电视原理 数字视音频处理等
+          GPA: 3.76/4.0  
+          专业排名：综测排名Top2%  
+          主修课程：传媒技术导论  数字信号处理 信号与系统 现代电视原理 数字视音频处理等
   
 
 
@@ -98,12 +99,28 @@ certifications:
       organization: 中国传媒大学信息与通信工程学院
       # credentialurl: http://
       # credentialname: 
+      # details: 
+
+    - name: 优秀团员
+      start: 2022
+      end:
+      organization: 共青团系统
+      # credentialurl: http://
+      # credentialname: 
       # details: |
 
     - name: 信息与通信工程学院一等奖学金
       start: 2023
       end:
       organization: 中国传媒大学信息与通信工程学院
+      # credentialurl: http://
+      # credentialname: 
+      # details: |
+
+    - name: 优秀团员
+      start: 2023
+      end:
+      organization: 共青团系统
       # credentialurl: http://
       # credentialname: 
       # details: |
