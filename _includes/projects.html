@@ -29,11 +29,10 @@
 
 
     {% if project.tagline %}
-    <span class="project-tagline">
-    <br>{{ project.tagline | newline_to_br | markdownify | remove: "<br />" }}
-   </span>
- {% endif %}
-
+  <span class="project-tagline">
+    <br>{{ project.tagline | newline_to_br | markdownify }}
+  </span>
+{% endif %}
 
 
     </div><!--//item-->
