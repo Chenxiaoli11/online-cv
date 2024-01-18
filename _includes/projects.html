@@ -20,20 +20,20 @@
     <div class="item">
 
     <span class="project-title">
-      {% if project.link %}
-      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-      {% else %}
-      {{ project.title }}
-      {% endif %}
-    </span>
-
-      {% if project.tagline %}
-      <span class="project-tagline">
-      {% for line in project.tagline | newline_to_br | markdownify %}
-      {{ line | remove: "<br />" | strip_newlines }}
-     {% endfor %}
+    {% if project.link %}
+    <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+    {% else %}
+    {{ project.title }}
+    {% endif %}
    </span>
-  {% endif %}
+
+
+    {% if project.tagline %}
+    <span class="project-tagline">
+    <br>{{ project.tagline | newline_to_br | markdownify | remove: "<br />" }}
+   </span>
+ {% endif %}
+
 
 
     </div><!--//item-->
