@@ -47,22 +47,27 @@ career-profile:
           
 
       技能：
-        - name: 熟练掌握编程语言
+        - name: 编程语言
           details: |
-            - C++
-            - Matlab
-            - C#
-            - Python
-          - 编程语言学习能力强，能够使用编程语言实现具体功能。
+            - 熟练掌握：
+              - C++
+              - Matlab
+              - C#
+              - Python
+            - 编程语言学习能力强，能够使用编程语言实现具体功能。
 
         - name: 视频剪辑和图像处理
           details: |
-            - 熟练使用Pr、剪映等视频剪辑软件，可完成后期制作等工作。
+            - 熟练使用：
+              - Pr
+              - 剪映等视频剪辑软件，可完成后期制作等工作。
             - 能够使用Ps进行图片编辑处理。
 
         - name: 公众号推送和海报制作
           details: |
-            - 熟练操作秀米、稿定设计等软件完成公众号推送、海报制作等工作。
+            - 熟练操作：
+              - 秀米
+              - 稿定设计等软件完成公众号推送、海报制作等工作。
 
         - name: 场景搭建和3D建模
           details: |
@@ -72,7 +77,10 @@ career-profile:
 
         - name: Office办公软件
           details: |
-            - 熟练运用Word、Excel、PowerPoint等Office办公软件。
+            - 熟练运用：
+              - Word
+              - Excel
+              - PowerPoint等Office办公软件。
 
         - name: 语言能力
           details: |
