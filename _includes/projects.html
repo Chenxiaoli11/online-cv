@@ -28,8 +28,13 @@
     </span>
 
       {% if project.tagline %}
-        <span class="project-tagline">{{ project.tagline | newline_to_br | markdownify | remove: "<br />" }}</span>
-      {% endif %}
+      <span class="project-tagline">
+      {% for line in project.tagline | newline_to_br | markdownify %}
+      {{ line | remove: "<br />" | strip_newlines }}
+     {% endfor %}
+   </span>
+  {% endif %}
+
 
     </div><!--//item-->
   {% endfor %}
