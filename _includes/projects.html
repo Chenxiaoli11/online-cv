@@ -18,6 +18,11 @@
 
   {% for project in projects.assignments %}
     <div class="item">
+      
+      <!-- 项目的时间字段 -->
+        {% if project.time %}
+        <span class="project-time">{{ project.time }}</span>
+        {% endif %}
 
       <span class="project-title">
         {% if project.link %}
@@ -28,7 +33,7 @@
       </span>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      - <span class="project-tagline">{{ project.tagline | newline_to_br | markdownify }}</span>
       {% endif %}
 
     </div><!--//item-->
