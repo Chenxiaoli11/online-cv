@@ -164,7 +164,7 @@ publications:
 
 
 papers:
-- title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
+  - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
 #  #      link: "#
 #  #      authors: Donald E. Knuth
 #   #     conference: Addison-Wesley, 1968
