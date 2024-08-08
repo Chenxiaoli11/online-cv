@@ -150,12 +150,7 @@ projects:
         2. 获得第九届中国国际“互联网+”大学生创新创业大赛北京赛区二等奖；
         3. 所研发的系统实际运用到天草之间（北京）音乐文化有限公司的演出中并得到良好反馈。
 
-
 publications:
-  title: 发表论文
-  intro: |
-    发表 EI 会议论文《The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network》
-    深入讨论研究了基于卷积神经网络的舞台音乐情感识别算法，并对算法进行了改进。
 
   title: 发表软著
   intro: |
@@ -176,7 +171,7 @@ skills:
       - name: Ae & Pr
         level: 94%
 
-      - name: C++ & matlab
+      - name: C++ & matlab & python
         level: 90%
 
       - name: 摄影
