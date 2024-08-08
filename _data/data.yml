@@ -5,8 +5,8 @@
 # 有什么问题可以联系微信pyx2466079565
 #
 
-sidebar:
-    education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
+ sidebar:
+     education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
    
 
     # 基本信息
