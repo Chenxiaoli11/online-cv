@@ -119,8 +119,8 @@ certifications:
 
 
 projects:
-  title: 项目经历
-  intro: >
+   title: 项目经历
+   intro: >
 
   assignments:
     - title: '"音绘舞彩"——基于音频情感识别的沉浸式舞台灯光自适应系统'
