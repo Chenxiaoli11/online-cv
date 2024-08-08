@@ -150,19 +150,17 @@ projects:
         2. 获得第九届中国国际“互联网+”大学生创新创业大赛北京赛区二等奖；
         3. 所研发的系统实际运用到天草之间（北京）音乐文化有限公司的演出中并得到良好反馈。
 
-    - title: 《"音为视觅"智能音频可视化系统》软件著作权
+    - title: 软件著作权《"音为视觅"智能音频可视化系统》
       # link: "#"
       tagline: |
-         用 Unity 制作了一款旨在将舞台表演的音频情感转化为视觉效果的软件，增强用户对舞台音乐的节奏和风格感知。
+         使用 Unity 制作了一款旨在将舞台表演的音频情感转化为视觉效果的软件，增强用户对舞台音乐的节奏和风格感知。
 
 publications:
-
   title: 发表论文
   intro: |
-   《The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network》
-
- # papers:
-   # - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
+   
+  papers:
+    - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
 #  #      link: "#
 #  #      authors: Donald E. Knuth
 #   #     conference: Addison-Wesley, 1968
