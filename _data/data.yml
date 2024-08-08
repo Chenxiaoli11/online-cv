@@ -137,7 +137,8 @@ projects:
       tagline: |
         项目角色：队长
         项目成绩：
-        1. 实现基于音频情感生成的舞台灯光自适应切换方案；
+        1. 发表EI会议论文《The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network》
+        1. 实现基于音频情感的舞台灯光自适应切换方案；
         2. 统筹管理项目经费的使用、分配及报销；
         3. 项目获得 2023 年中国传媒大学大学生创新创业训练计划国家级立项，2024年获得优秀结项。
 
@@ -155,12 +156,12 @@ projects:
       tagline: |
          使用 Unity 制作了一款旨在将舞台表演的音频情感转化为视觉效果的软件，增强用户对舞台音乐的节奏和风格感知。
 
-publications:
-  title: 发表论文
-  intro: |
+#publications:
+  #title: 发表论文
+  #intro: |
    
-  papers:
-    - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
+ # papers:
+    #- title: 
 #  #      link: "#
 #  #      authors: Donald E. Knuth
 #   #     conference: Addison-Wesley, 1968
