@@ -157,9 +157,8 @@ publications:
     发表软著《"音为视觅"智能音频可视化系统》
     用 Unity 制作了一款旨在将舞台表演的音频情感转化为视觉效果的软件，增强用户对舞台音乐的节奏和风格感知。
 
-
-papers:
-  - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
+  papers:
+    - title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
 #  #      link: "#
 #  #      authors: Donald E. Knuth
 #   #     conference: Addison-Wesley, 1968
