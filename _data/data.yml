@@ -71,7 +71,7 @@ education:
         details: |
           GPA: 3.78/4.0  
           专业排名：综测排名Top2%  
-          主修课程：传媒技术导论  数字信号处理 信号与系统 现代电视原理 数字视音频处理 融合媒体制作与播出技术 融合媒体系统设计与应用等
+          主修课程：传媒技术导论  数字信号处理  现代电视原理  数字视音频处理  融合媒体系统设计与应用等
   
 
 
@@ -93,7 +93,7 @@ experiences:
 certifications:
   title: 所获荣誉
   list:
-    - name: 2021-2022学年信息与通信工程学院一等奖学金
+    - name: 2021-2022学年学院一等奖学金
       start: 2022
       end:
       organization: 中国传媒大学信息与通信工程学院
@@ -109,7 +109,7 @@ certifications:
       # credentialname: 
       # details: |
 
-    - name: 2023-2023学年信息与通信工程学院一等奖学金
+    - name: 2023-2023学年学院一等奖学金
       start: 2023
       end:
       organization: 中国传媒大学信息与通信工程学院
@@ -163,8 +163,8 @@ publications:
     用 Unity 制作了一款旨在将舞台表演的音频情感转化为视觉效果的软件，增强用户对舞台音乐的节奏和风格感知。
 
 
-#  #  papers:
-#  #    - title: The Art of Computer Programming
+papers:
+- title: The Research and Improvement of Stage Music Emotion Recognition Algorithm Based on Convolutional Neural Network
 #  #      link: "#
 #  #      authors: Donald E. Knuth
 #   #     conference: Addison-Wesley, 1968
